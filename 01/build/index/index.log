@@ -332,22 +332,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
 )
-(_postamble.tex
-Overfull \hbox (6.9167pt too wide) in paragraph at lines 3--1
-\TU/texgyrepagella(0)/m/n/10 Andes 2000 and 2011-2015 [][]$[][][][][] [] [] [] 
-[][][] [] [][][][][][][] [] [][] [] [][] [] [][][][] [] [][][][][][][] [] [][][
-][][][]$[][]
- []
+(_postamble.tex [1
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--1
-
- []
-
-[1
-
-] (index.aux)
+] [2] (index.aux)
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: E9FBF7E4559D9EB07713E14CCAC9D09F;213.
+(rerunfilecheck)             Checksum: 448DCBB045F461D66F8084EB35F6A742;417.
  ) )
-Output written on index.xdv (1 page, 3624 bytes).
+Output written on index.xdv (2 pages, 20948 bytes).
